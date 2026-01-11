@@ -1,0 +1,47 @@
+- name: HTML
+  color: "#E34F26"
+
+- name: CSS
+  color: "#1572B6"
+
+- name: JavaScript
+  color: "#F7DF1E"
+
+- name: Java
+  color: "#007396"
+
+- name: Spring
+  color: "#6DB33F"
+
+- name: React
+  color: "#61DAFB"
+
+- name: Angular
+  color: "#DD0031"
+
+- name: AWS
+  color: "#FF9900"
+
+- name: Bootstrap
+  color: "#7952B3"
+
+- name: C
+  color: "#00599C"
+
+- name: C++
+  color: "#004482"
+
+- name: Figma
+  color: "#F24E1E"
+
+- name: Git
+  color: "#F05032"
+
+- name: GitHub
+  color: "#242938"
+
+- name: Node.js
+  color: "#339933"
+
+- name: Python
+  color: "#3776AB"
